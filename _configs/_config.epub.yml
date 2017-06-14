@@ -1,0 +1,4 @@
+# Set site.output == "epub"
+output: "epub"
+# Set site.image-set == "images/epub"
+image-set: "images/epub"
